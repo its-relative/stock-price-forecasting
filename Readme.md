@@ -13,8 +13,6 @@ This project uses Long Short-Term Memory (LSTM) neural networks to predict the f
 
 ## Requirements
 
-## Requirements
-
 * Python 3.8+
 * TensorFlow or Keras for LSTM model implementation
 * Pandas and NumPy for data manipulation and analysis
